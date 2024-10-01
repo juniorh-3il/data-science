@@ -1,0 +1,4 @@
+1. Average cost  = 413,661
+2. Num. of colors = 10
+3. Num of distinct Customer = 1000
+4. Max. customer income = 170000
